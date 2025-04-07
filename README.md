@@ -38,3 +38,17 @@
 </div>
 
 ###
+
+<div align="center">
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXA0bHFoZTd2bjZ3dW52bWZ1bHhleWxkYnJ3Mzl6eTA5MWxyMWF3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vR1dPIYzQmkRzLZk2w/giphy.gif"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/javierincio/javierincio/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/javierincio/javierincio/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/javierincio/javierincio/output/pacman-contribution-graph.svg">
+</picture>
+
+###
