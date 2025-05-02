@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Javier and I'm a Web Development Student, from Asturias, Spain</h2>
+<h2 align="left">Hi 👋! My name is Javier and I'm a Web Development Student from Spain</h2>
 
 ###
 
