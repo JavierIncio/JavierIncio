@@ -32,10 +32,10 @@ I'm a web development student looking for new projects and learning oportunities
 <!--
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JavierIncio&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
--->
 
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=JavierIncio&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JavierIncio&icon=1&color=1)](https://visitcount.itsvg.in)
