@@ -22,12 +22,12 @@ I'm a web development student looking for new projects and learning oportunities
       alt="Top Languages"
     />
   </div>
-  <br/>
+  <!-- <br/>
   <img 
     height="150"
-    src="https://github-readme-stats.vercel.app/api?username=JavierIncio&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=JavierIncio&theme=tokyonight&hide_border=false&count_private=true" 
     alt="GitHub Stats"
-  />
+  /> -->
 </div>
 
 ## 🏆 GitHub Trophies
